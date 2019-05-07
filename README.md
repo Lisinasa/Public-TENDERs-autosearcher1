@@ -1,15 +1,18 @@
 # Public-TENDERs-autosearcher1
 Beginer of coding.
 
-1.	Projektų atranka puslapyje  https://cvpp.eviesiejipirkimai.lt/
-Pagal feeder projektu numerius https://pirkimai.eviesiejipirkimai.lt/ppo_startpage/subscribe/subscribe.html
-pagl uzsakovo pavadinima
-Pagal raktinius zodzius
-Pagal paskelbimo data ir voku atplėsimo datas
-pagal Skelbimo rusi (darbai, medziagos, paslaugos ir kt.
+1.	Projektų atranka puslapyje 
+  1a. pasrsisiusti duomenis https://cvpp.eviesiejipirkimai.lt/
+  1b. Parsissiusti kelis projektus pagal raktinius zodzius ir numerius      https://pirkimai.eviesiejipirkimai.lt/ppo_startpage/subscribe/subscribe.html
+  1c pagl uzsakovo pavadinima
+  1d Pagal raktinius zodzius
+  1e Pagal paskelbimo data ir voku atplėsimo datas
+  1f pagal Skelbimo rusi (darbai, medziagos, paslaugos ir kt.
 
 2.	Prisegtos dokumentacijos analize
-
+  2.1 Parsisiusti Excel pagal zodzius DKZ. Darbu kiekiu ziniarastis ir t.t
+  2.2 
+  
 Projektu Priėmimas/atmetimas:
 pagal kiekius
 pagal raktinius zodzius (geotekstile, geotinklas, pralaida, tiltas ir t.t.
