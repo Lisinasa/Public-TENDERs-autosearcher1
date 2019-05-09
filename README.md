@@ -8,6 +8,11 @@ Beginer of coding.
   1d Pagal raktinius zodzius
   1e Pagal paskelbimo data ir voku atplėsimo datas
   1f pagal Skelbimo rusi (darbai, medziagos, paslaugos ir kt.
+  probably it will be changed
+
+
+
+  
 
 2.	Prisegtos dokumentacijos analize
   2.1 Parsisiusti Excel pagal zodzius DKZ. Darbu kiekiu ziniarastis ir t.t
