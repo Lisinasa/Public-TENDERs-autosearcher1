@@ -9,14 +9,9 @@ Beginer of coding.
   1e Pagal paskelbimo data ir voku atplėsimo datas
   1f pagal Skelbimo rusi (darbai, medziagos, paslaugos ir kt.
   probably it will be changed
-
-
-
-
-
-
-
-
+BDNCsLK4
+HBCl
+lakjsdjcb
 
 
 
