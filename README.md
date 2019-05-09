@@ -2,7 +2,7 @@
 Beginer of coding.
 
 1.	Projektų atranka puslapyje 
-  1a. pasrsisiusti duomenis https://cvpp.eviesiejipirkimai.lt/
+  -[1.1] pasrsisiusti duomenis https://cvpp.eviesiejipirkimai.lt/
   1b. Parsissiusti kelis projektus pagal raktinius zodzius ir numerius      https://pirkimai.eviesiejipirkimai.lt/ppo_startpage/subscribe/subscribe.html
   1c pagl uzsakovo pavadinima
   1d Pagal raktinius zodzius
