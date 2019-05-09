@@ -19,6 +19,8 @@ Beginer of coding.
 
 
 
+
+
 2.	Prisegtos dokumentacijos analize
   2.1 Parsisiusti Excel pagal zodzius DKZ. Darbu kiekiu ziniarastis ir t.t
   2.2 
