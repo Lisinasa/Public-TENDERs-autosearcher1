@@ -1,3 +1,4 @@
+raktazodis="rekonstravimas"
 import requests
 r=requests.get("https://cvpp.eviesiejipirkimai.lt/?Query=vilnius%E2%80%93kaunas%E2%80%93klaip%C4%97da&OrderingType=0&OrderingDirection=0&TypeContractId=&ProcedureSearchTypeId=&NoticeType=&PublicationType=&SectorSearchTypeId=&IncludeExpired=false&Cpvs=&TenderId=&DeadlineFromDate=&DeadlineToDate=&PublishedFromDate=2018-04-01&PublishedToDate=")
 from bs4 import BeautifulSoup
@@ -9,3 +10,13 @@ for result in results:
         print(result[1])
     elif len(result)==1:
         print(result[0])
+      elementas = result[1]
+    elif len(result)==1:
+        elementas = result[0]
+        print(elementas)
+        print(elementas.text)
+        print(elementas['href'])
+        print('\n')
+for raktazodis in elementas['href']:
+    if raktazodis==0:
+        print(elementas['href'])
