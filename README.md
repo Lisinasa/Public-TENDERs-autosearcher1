@@ -1,4 +1,4 @@
-# Public-TENDERs-autosearcher1
+# Public-TENDERs-autosearcher
 Beginer of coding.
 
 1.	Projektų atranka puslapyje 
