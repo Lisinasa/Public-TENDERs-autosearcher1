@@ -13,10 +13,9 @@ for result in results:
       elementas = result[1]
     elif len(result)==1:
         elementas = result[0]
-        print(elementas)
+    pavadinimas=elementas.text
+    adresas=elementas["href"]
+    if raktazodis in pavadinimas:
+        print("Rastas projektas pagal raktazodi")
         print(elementas.text)
-        print(elementas['href'])
-        print('\n')
-for raktazodis in elementas['href']:
-    if raktazodis==0:
-        print(elementas['href'])
+        print(elementas["href"])
