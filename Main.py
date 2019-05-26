@@ -19,3 +19,10 @@ for result in results:
         print("Rastas projektas pagal raktazodi")
         print(elementas.text)
         print(elementas["href"])
+import requests
+r=requests.get("https://pirkimai.eviesiejipirkimai.lt/app/rfq/publicpurchase_docs.asp?PID=437241")
+from bs4 import BeautifulSoup 
+soup = BeautifulSoup(r.content, 'html.parser')
+results=soup.find_all("var", class_="details-view-action-box") 
+result=soup.find_all("a", href=True)
+print(result)
