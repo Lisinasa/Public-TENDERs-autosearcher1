@@ -2,6 +2,12 @@
 Beginer of coding.
 
 1.	Projektų atranka puslapyje 
+  - kodas veikia siame puslapyje "https://cvpp.eviesiejipirkimai.lt/?Query=vilnius%E2%80%93kaunas%E2%80%93klaip%C4%97da&OrderingType=0&OrderingDirection=0&TypeContractId=&ProcedureSearchTypeId=&NoticeType=&PublicationType=&SectorSearchTypeId=&IncludeExpired=false&Cpvs=&TenderId=&DeadlineFromDate=&DeadlineToDate=&PublishedFromDate=2018-04-01&PublishedToDate="
+  - Sutvarkomi duomenys priimtinu vaizdu
+  - Surandamos svarbios dalys pagal nuorodas ir pavadinimus
+  - Atskiriami visi elementai su nuorodomis
+  - Atrenkamas projektas pagal raktazodzius projekto pavadinime 
+  
   -[1.1] pasrsisiusti duomenis https://cvpp.eviesiejipirkimai.lt/
   1b. Parsissiusti kelis projektus pagal raktinius zodzius ir numerius      https://pirkimai.eviesiejipirkimai.lt/ppo_startpage/subscribe/subscribe.html
   1c pagl uzsakovo pavadinima
@@ -9,7 +15,7 @@ Beginer of coding.
   1e Pagal paskelbimo data ir voku atplėsimo datas
   1f pagal Skelbimo rusi (darbai, medziagos, paslaugos ir kt.
   
-  rasau nesamones
+  
 
 
 
