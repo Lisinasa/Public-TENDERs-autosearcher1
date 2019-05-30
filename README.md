@@ -7,21 +7,24 @@ Beginer of coding.
   - Surandamos svarbios dalys pagal nuorodas ir pavadinimus
   - Atskiriami visi elementai su nuorodomis
   - Atrenkamas projektas pagal raktazodzius projekto pavadinime 
-  
-  -[1.1] pasrsisiusti duomenis https://cvpp.eviesiejipirkimai.lt/
-  1b. Parsissiusti kelis projektus pagal raktinius zodzius ir numerius      https://pirkimai.eviesiejipirkimai.lt/ppo_startpage/subscribe/subscribe.html
-  1c pagl uzsakovo pavadinima
-  1d Pagal raktinius zodzius
-  1e Pagal paskelbimo data ir voku atplėsimo datas
-  1f pagal Skelbimo rusi (darbai, medziagos, paslaugos ir kt.
-  
-  
+2. Ieskomi dokumentai atrinktame projekte
 
 
+
+Projekto planas (juodrastis): 
+
+- pasrsisiusti duomenis https://cvpp.eviesiejipirkimai.lt/
+- Parsissiusti kelis projektus pagal raktinius zodzius ir numerius      https://pirkimai.eviesiejipirkimai.lt/ppo_startpage/subscribe/subscribe.html
+- pagal uzsakovo pavadinima
+- Pagal raktinius zodzius
+- Pagal paskelbimo data ir voku atplėsimo datas
+- pagal Skelbimo rusi (darbai, medziagos, paslaugos ir kt.
+  
+  
 
 
 2.	Prisegtos dokumentacijos analize
-  2.1 Parsisiusti Excel pagal zodzius DKZ. Darbu kiekiu ziniarastis ir t.t
+  2.1 Parsisiusti documentus pagal zodzius DKZ. Darbu kiekiu ziniarastis ir t.t
   2.2 
   
 Projektu Priėmimas/atmetimas:
