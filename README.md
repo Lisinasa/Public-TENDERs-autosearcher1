@@ -11,6 +11,15 @@ Beginer of coding.
 
 
 
+
+
+
+
+
+
+
+
+
 Projekto planas (juodrastis): 
 
 - pasrsisiusti duomenis https://cvpp.eviesiejipirkimai.lt/
